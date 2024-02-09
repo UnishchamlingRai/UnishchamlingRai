@@ -8,7 +8,7 @@
    <div> 
     <div>
         <h6> Frontend Skills: </h6>
-        <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,tailwindcss" />
+        <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,tailwindcss,nextjs" />
     </div>
     <div>
         <h6> Backend Skills: </h6>
