@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Unish Rai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img src="https://images.pexels.com/photos/6424589/pexels-photo-6424589.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" height="300px" width="300px">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=unishchamlingrai&label=Profile%20views&color=0e75b6&style=flat" alt="unishchamlingrai" /> </p>
 
