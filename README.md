@@ -5,10 +5,17 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-   
     <div>
     <h6> Frontend Skills: </h6>
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,sass,react,redux,tailwindcss" />
+    </div>
+    <div>
+    <h6> Backend Skills: </h6>
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,php,mysql" />
+    </div>
+     <div>
+    <h6> Design Skills: </h6>
+    <img src="https://skillicons.dev/icons?i=figma,photoshop" />
     </div>
   </a>
 </p>
